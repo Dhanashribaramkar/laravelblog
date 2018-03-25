@@ -8,14 +8,13 @@ Features:
 3.	Add/list/delete comments related post
 3.	Displaying Posts By Category
 4.	Searching Posts
-5.	Building Shopping Cart: Add/Update/Delete Cart
-6.	Security, User/Admin Authentication: 
+5.	Security, User/Admin Authentication: 
 	- Only admin users can perform CRUD operation with Categories, Posts, Comments
 	- Normal user can perform CRUD operation with Posts and Comments only
 	- Normal user can not Edit/Delete other users posts
-7.	Pagination feature is available
-8.	MYSQL dump of the database named 'laravelblog.sql’ is provided.
-9.	Images will be stored in folder ‘public/images’ using laravel package ‘File Storage’
+6.	Pagination feature is available
+7.	MYSQL dump of the database named 'laravelblog.sql’ is provided.
+8.	Images will be stored in folder ‘public/images’ using laravel package ‘File Storage’
 
 ### Prerequisites
 
